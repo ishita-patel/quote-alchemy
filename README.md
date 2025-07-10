@@ -94,7 +94,7 @@ python3 main.py
 ```
 ## ✧ Example Summary Output
 
-```json
+```bash
 
 === FINAL SUMMARY ===
 
