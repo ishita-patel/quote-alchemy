@@ -6,7 +6,7 @@
 <table style="width: 100%; margin: 0; padding: 0; border: none;">
 <tr>
 <td style="width: 60%; vertical-align: top; padding-right: 20px; background-color: #f9fafb; border-radius: 12px 0 0 12px; padding: 15px;">
-<h3 style="margin-top: 0;">Key Features:</h3>
+<h3 style="margin-top: 0;">Key Features →</h3>
 <ul>
   <li>Web scraping with Playwright</li>
   <li>Local LLM analysis</li>
