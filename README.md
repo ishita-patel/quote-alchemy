@@ -2,35 +2,39 @@
 
 *A local AI system that scrapes, analyzes, and philosophically summarizes quotes*
 
+
 <table style="width: 100%; margin: 0; padding: 0; border: none;">
 <tr>
-<td style="width: 60%; vertical-align: top; padding-right: 20px; color: #7dd3fc;">
-
-**Key Features:**  
-- Web scraping with Playwright  
-- Local LLM analysis  
-- Statistical breakdowns  
-- Generated wisdom insights  
-- Original summary quotes  
-- Offline capable  
-- Modular architecture  
-
-<span style="color: #7dd3fc;">✮ Built for intelligent automation</span>  
-
+<td style="width: 60%; vertical-align: top; padding-right: 20px; background-color: #f9fafb; border-radius: 12px 0 0 12px; padding: 15px;">
+<h3 style="margin-top: 0;">Key Features:</h3>
+<ul>
+  <li>Web scraping with Playwright</li>
+  <li>Local LLM analysis</li>
+  <li>Statistical breakdowns</li>
+  <li>Generated wisdom insights</li>
+  <li>Original summary quotes</li>
+  <li>Offline capable</li>
+  <li>Modular architecture</li>
+</ul>
 </td>
-<td style="width: 40%; padding: 15px; background: linear-gradient(to right, #f8f8f8, #e0f2f1); border-radius: 0 12px 12px 0; color: #1e40af;">
 
-**<span style="color: #1e40af;">Philosophical Value →</span>**  
-• Academic research  
-• Content analysis  
-• Thought leadership  
-• Thematic mapping  
-• Conceptual frameworks  
-• Ethical analysis  
-
+<td style="width: 40%; background: linear-gradient(to right, #f8f8f8, #e0f2f1); border-radius: 0 12px 12px 0; padding: 15px;">
+<h3 style="margin-top: 0; color: #1e40af;">Philosophical Value →</h3>
+<ul>
+  <li>Academic research</li>
+  <li>Content analysis</li>
+  <li>Thought leadership</li>
+  <li>Thematic mapping</li>
+  <li>Conceptual frameworks</li>
+  <li>Ethical analysis</li>
+</ul>
 </td>
 </tr>
 </table>
+
+<br>
+
+✮ <strong>Built for intelligent automation</strong>
 
 ## **✧ Folder Structure**
 ```bash
