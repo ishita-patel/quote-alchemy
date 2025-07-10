@@ -83,8 +83,8 @@ quote_scrapper/
 ## ✦ Setup Instructions
 ```bash
 ##Clone the repo
-git clone https://github.com/
-cd quote-insight-generator
+git clone https://github.com/ishita-patel/quote-alchemy.git
+cd quote-alchemy
 
 ##Create virtual environment
 python3 -m venv venv && source venv/bin/activate
