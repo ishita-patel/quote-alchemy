@@ -1,0 +1,23 @@
+# Ignore virtual environments
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+
+# macOS system files
+.DS_Store
+
+# VSCode settings (optional)
+.vscode/
+
+# Ignore data files if needed
+data/*
+!data/quotes.json
+
+# Ignore model files (they're huge and don't belong in Git)
+models/*.gguf
+
+# Logs, temporary files, etc.
+*.log
+*.tmp

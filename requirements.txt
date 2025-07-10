@@ -1,0 +1,6 @@
+playwright==1.42.0
+transformers==4.40.0
+llama-cpp-python
+beautifulsoup4
+requests
+tqdm
